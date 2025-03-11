@@ -168,6 +168,12 @@ p {
     max-width: 100%;
 }
 
+.youtube-iframe {
+    margin-top: 1em;
+    width: 560px;
+    height: 315px;
+}
+
 .citation-container {
     background-color: #f8f8f8;
     padding: 1em 1em 0.3em 1em;
