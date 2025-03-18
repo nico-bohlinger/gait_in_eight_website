@@ -153,6 +153,11 @@ p {
     color: #333;
 }
 
+.highlighted-text {
+    color: #b81122;
+    font-weight: bold;
+}
+
 .section-image {
     margin-top: 2em;
     max-width: 100%;
@@ -170,8 +175,8 @@ p {
 
 .youtube-iframe {
     margin-top: 1em;
-    width: 560px;
-    height: 315px;
+    width: 672px;
+    height: 378px;
 }
 
 .citation-container {
